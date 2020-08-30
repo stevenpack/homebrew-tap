@@ -1,4 +1,4 @@
-class asroute < Formula
+class Asroute < Formula
   desc "CLI to interpret traceroute -a output to show names of Autonomous Systems traversed"
   homepage "https://github.com/stevenpack/asroute"
   url "https://github.com/stevenpack/asroute/releases/download/v0.1.0/asroute-0.1.0-x86_64-apple-darwin.tar.gz"
